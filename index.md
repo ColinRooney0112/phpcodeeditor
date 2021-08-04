@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Top 5 Free PHP Code Editors and IDE to use
 
 You can use the [editor on GitHub](https://github.com/ColinRooney0112/phpcodeeditor/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -10,7 +10,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-Top 5 Free PHP Code Editors and IDE to use
 # Header 1
 
 
